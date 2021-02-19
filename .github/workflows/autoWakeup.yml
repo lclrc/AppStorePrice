@@ -9,7 +9,7 @@ on:
   #  branches:
   #    - master
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '1 */5 * * *'
   watch:
     types: [started]
 
@@ -46,11 +46,3 @@ jobs:
       - name: Waking #读取站点信息
         run: |
           node ./src/index.js ${{secrets.SCKEY}}
-
-      - name: Commit #更新日志到GitHub仓库
-        run: |
-          git config --global user.email i@xiaokang.me
-          git config --global user.name XiaoKang
-          git add .
-          git commit -m "更新了!"
-          git push
