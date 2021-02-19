@@ -48,9 +48,9 @@ async function getApp (list) {
               console.log("价格发生了变化");
               // Server酱提醒
               axios.request({
-                url: `https://sc.ftqq.com/${SCKEY}.send`,
+                url: `https://sctapi.ftqq.com/${SCKEY}.send`,
                 method: 'post',
-                data: `text=您监控的App价格发生了变化哦！&desp=${content}`
+                data: `title=您监控的App价格发生了变化哦！&desp=${content}`
               }).then(result => {
                 console.log(result.data);
               }).catch(err => {
