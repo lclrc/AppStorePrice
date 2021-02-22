@@ -1,5 +1,14 @@
 [
   {
+    "id": 360593530,
+    "country": "cn",
+    "name": "Notability"
+  },
+  {
+    "id": 1444383602,
+    "country": "cn",
+    "name": "Goodnotes5"
+  },
     "id": 1261944766,
     "country": "cn",
     "name": "alook"
@@ -8,6 +17,21 @@
     "id": 670910957,
     "country": "cn",
     "name": "vvebo"
+  },
+  {
+    "id": 1476256748,
+    "country": "cn",
+    "name": "MOODA-心情日记"
+  },
+  {
+    "id": 1031088612,
+    "country": "cn",
+    "name": "小历"
+  },
+  {
+     "id": 539397400,
+     "country": "cn",
+     "name": "nplayer plus"
   },
   {
     "id": 1161125462,
@@ -53,6 +77,16 @@
     "id": 1086617993,
     "country": "cn",
     "name": "时间块"
+  },
+  {
+    "id": 956033107,
+    "country": "cn",
+    "name": "mathstudio"
+  },
+  {
+    "id": 1039643846,
+    "country": "cn",
+    "name": "PIN"
   },
   {
     "id": 1347998487,
