@@ -1,6 +1,7 @@
 - 【 Notability 】 ==> 60
 - 【 GoodNotes 5 】 ==> 50
 - 【 Alook浏览器 - 2倍速 】 ==> 6
+- 【 熊猫吃短信 - 垃圾短信过滤 】 ==> 3
 - 【 VVebo 】 ==> 6
 - 【 MOODA-心情日记 】 ==> 6
 - 【 小历 - 小而美的日历 】 ==> 1
@@ -10,6 +11,7 @@
 - 【 Pixelmator Photo 】 ==> 50
 - 【 Duet Display 】 ==> 68
 - 【 MyScript Calculator 】 ==> 18
+- 【 航旅纵横PRO-官方航班查询购票值机 】 ==> 6
 - 【 彩云天气Pro 】 ==> 98
 - 【 Things 3 】 ==> 68
 - 【 Facetune 】 ==> 25
