@@ -11,7 +11,7 @@
 - 【 P站助手-精美二次元壁纸采集工具 】 ==> 25
 - 【 Forest 专注森林 】 ==> 12
 - 【 Pixelmator Photo 】 ==> 50
-- 【 Duet Display 】 ==> 68
+- 【 Duet Display 】 ==> 98
 - 【 MyScript Calculator 】 ==> 18
 - 【 航旅纵横PRO-官方航班查询购票值机 】 ==> 6
 - 【 彩云天气Pro 】 ==> 98
