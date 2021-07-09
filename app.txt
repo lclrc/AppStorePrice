@@ -13,7 +13,7 @@
 - 【 Pixelmator Photo 】 ==> 50
 - 【 Duet Display 】 ==> 98
 - 【 MyScript Calculator 】 ==> 18
-- 【 航旅纵横PRO-官方航班查询购票值机 】 ==> 6
+- 【 航旅纵横PRO-官方航班查询机票值机接送机打车航延险保险酒店 】 ==> 6
 - 【 彩云天气Pro 】 ==> 98
 - 【 Things 3 】 ==> 68
 - 【 Facetune 】 ==> 25
